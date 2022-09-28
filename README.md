@@ -15,3 +15,5 @@ https://jamesmiller.blog/tag/extended-reality/
 
 - ARKit
 - 
+
+[IOS 微信内置浏览器明明能开启摄像头为什么不支持 AR.js] - https://zhuanlan.zhihu.com/p/34580521
