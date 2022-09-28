@@ -17,3 +17,5 @@ https://jamesmiller.blog/tag/extended-reality/
 - 
 
 [IOS 微信内置浏览器明明能开启摄像头为什么不支持 AR.js] - https://zhuanlan.zhihu.com/p/34580521
+
+【跨平台移动Web AR的关键技术介绍及应用】https://www.w3.org/2021/07/chinese-ig-xr/slides/WebXR-yakun-huang.pdf
