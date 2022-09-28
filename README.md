@@ -2,12 +2,14 @@
 
 国内 AR VR 从业者交流
 
-## VR
+## WebVR
 
 - 客户端 VR
 - 浏览器 VR
 
-## AR
+https://jamesmiller.blog/tag/extended-reality/
+
+## WebAR
 
 - ARKit
 - 
