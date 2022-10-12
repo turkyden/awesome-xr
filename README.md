@@ -42,3 +42,5 @@ function getUserMedia(constraints, success, error) {
   }
 }
 ```
+
+<img width="300" src="https://user-images.githubusercontent.com/24560160/194598238-02951753-7d7e-4768-8db6-672ffc080aeb.png">
