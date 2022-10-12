@@ -1,6 +1,6 @@
-# Awesome XR
+# 👓 Awesome XR
 
-国内 AR VR 从业者交流
+国内 AR/VR 从业者交流交流黄页。
 
 ## WebVR
 
