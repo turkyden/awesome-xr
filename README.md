@@ -14,11 +14,10 @@ https://jamesmiller.blog/tag/extended-reality/
 ## WebAR
 
 - ARKit
-- 
 
-[IOS 微信内置浏览器明明能开启摄像头为什么不支持 AR.js] - https://zhuanlan.zhihu.com/p/34580521
+[IOS 微信内置浏览器明明能开启摄像头为什么不支持 AR.js](https://zhuanlan.zhihu.com/p/34580521)
 
-【跨平台移动Web AR的关键技术介绍及应用】https://www.w3.org/2021/07/chinese-ig-xr/slides/WebXR-yakun-huang.pdf
+[跨平台移动 Web AR 的关键技术介绍及应用](https://www.w3.org/2021/07/chinese-ig-xr/slides/WebXR-yakun-huang.pdf)
 
 微信 IOS 兼容写法 `getUserMedia`：
 
@@ -42,5 +41,6 @@ function getUserMedia(constraints, success, error) {
   }
 }
 ```
-
+<!--
 <img width="300" src="https://user-images.githubusercontent.com/24560160/194598238-02951753-7d7e-4768-8db6-672ffc080aeb.png">
+-- >
