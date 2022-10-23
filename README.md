@@ -6,6 +6,8 @@
 
 [使用 three.js 和 react.js 创建实时的多人 WebXR 体验](https://jamesmiller.blog/tag/extended-reality/)
 
+- [VR 会议室投屏实现](https://github.com/madjin/vr-conf)
+
 ## WebAR
 
 [IOS 微信内置浏览器明明能开启摄像头为什么不支持 AR.js](https://zhuanlan.zhihu.com/p/34580521)
