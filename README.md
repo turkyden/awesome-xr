@@ -14,6 +14,8 @@
 
 [跨平台移动 Web AR 的关键技术介绍及应用](https://www.w3.org/2021/07/chinese-ig-xr/slides/WebXR-yakun-huang.pdf)
 
+[WebAR 实验 · AR.js 与 WebXR 标准 API](https://shirinstar.github.io/webAR_experiments_page/)
+
 微信 IOS 兼容写法 `getUserMedia`：
 
 ```
